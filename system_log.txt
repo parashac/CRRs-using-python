@@ -1,0 +1,16 @@
+[2026-01-21 15:20:18] System started - All data loaded successfully
+[2026-01-21 15:20:46] Failed to add student: Invalid email format!
+[2026-01-21 15:21:09] All data saved successfully
+[2026-01-21 15:21:09] Added student: dejs - debejd
+[2026-01-21 15:31:00] All data saved successfully
+[2026-01-21 15:31:00] System interrupted by user
+student added successfully
+Student enrolled successfully
+Result added successfully
+student added successfully
+student added successfully
+Student enrolled successfully
+Student enrolled successfully
+Course ENG101 updated
+student added successfully
+Student 1 updated
